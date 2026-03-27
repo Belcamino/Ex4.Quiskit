@@ -1,4 +1,4 @@
-# Ex4.quiskit
+# Ex4.qubit
 Il codice Python seguente mostra come utilizzare la libreria qiskit  per creare uno stato di Bell, un esempio fondamentale di entanglement quantistico tra due qubit. 
 Preliminarmente con i comandi seguenti si installano le librerie necessarie:
 pip install qiskit-aer
